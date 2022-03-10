@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGODB_ATLAS_URL": "mongodb+srv://ritik:mogimogi@cluster0.tw5on.mongodb.net/todo-mean?retryWrites=true&w=majority",
+    "JWT_KEY": "your_strong_salt_secret"
+  }
+}
